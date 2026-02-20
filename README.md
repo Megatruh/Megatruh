@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi! I'm Farhan Esha Putra Kusuma Atmaja, an Informatics student at Siliwangi University.<br><br>🔭 Currently focusing on Back-End Development with Laravel.<br><br>🛡️ Deeply interested in Web Development and Mechine Learning<br><br>📊 Aspiring Data Scientist and Machine Learning enthusiast.<br><br>☕ Passionate about the art of coffee brewing and managing my personal brand, Hasra Kopi.
 
-### ✍️ Random Dev Quote
+
 <p align="center">
   <img src="https://img.shields.io/badge/MOTTO-%22AD%20MAIORA%20NATUS%20SUM%22-8A2BE2?style=for-the-badge&logo=target&logoColor=white" />
 </p>

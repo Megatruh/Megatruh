@@ -13,7 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megatruh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/MOTTO-%22AD%20MAIORA%20NATUS%20SUM%22-8A2BE2?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Megatruh&limit=5&theme=dark&combine_all_yearly_contributions=true)

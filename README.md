@@ -1,6 +1,10 @@
 # 💫 About Me:
 👋 Hi! I'm Farhan Esha Putra Kusuma Atmaja, an Informatics student at Siliwangi University.<br><br>🔭 Currently focusing on Back-End Development with Laravel.<br><br>🛡️ Deeply interested in Web Development and Mechine Learning<br><br>📊 Aspiring Data Scientist and Machine Learning enthusiast.<br><br>☕ Passionate about the art of coffee brewing and managing my personal brand, Hasra Kopi.
 
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://img.shields.io/badge/MOTTO-%22AD%20MAIORA%20NATUS%20SUM%22-8A2BE2?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/megatruh11235) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@shatramaja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Farhan Esha Putra Kusuma Atmaja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farhaneshaputra132@gmail.com) 
@@ -11,11 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Megatruh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Megatruh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Megatruh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://img.shields.io/badge/MOTTO-%22AD%20MAIORA%20NATUS%20SUM%22-8A2BE2?style=for-the-badge&logo=target&logoColor=white" />
-</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Megatruh&limit=5&theme=dark&combine_all_yearly_contributions=true)

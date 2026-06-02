@@ -37,7 +37,7 @@ Fokus utama saya terletak pada dua pilar:
 
 🔧 **Back-End Web Development** — Membangun sistem web yang solid, scalable, dan maintainable dengan spesialisasi di **PHP & Laravel Framework**.
 
-🛡️ **Cybersecurity Exploration** — Mendalami **Web Application Penetration Testing & Ethical Hacking** menggunakan **Parrot OS** sebagai primary attack platform.
+🛡️ **Cybersecurity Exploration** — Mendalami **Web Application Penetration Testing & Ethical Hacking** menggunakan **Fedora OS** sebagai primary attack platform.
 
 🏋️ **Calisthenics Enthusiast** — Selain dunia kode, saya menerapkan disiplin fisik dan mental melalui latihan **Calisthenics** sebagai bagian dari gaya hidup sehari-hari.
 

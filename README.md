@@ -101,12 +101,7 @@ Fokus utama saya terletak pada dua pilar:
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Megatruh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megatruh&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&text_color=C0CAF5" height="170" alt="Top Languages" />
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Megatruh&theme=tokyonight&hide_border=true&background=1a1b27&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7" alt="GitHub Streak" />

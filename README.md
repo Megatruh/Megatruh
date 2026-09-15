@@ -31,7 +31,7 @@
 
 ## 🧑‍💻 About Me
 
-Saya **Farhan Esha Putra Kusuma Atmaja** — mahasiswa **Teknik Informatika** di **Universitas Siliwangi (UNSIL)**, saat ini menempuh **Semester 4**.
+Saya **Farhan Esha Putra Kusuma Atmaja** — mahasiswa **Teknik Informatika** di **Universitas Siliwangi (UNSIL)**, saat ini menempuh **Semester 5**.
 
 Fokus utama saya terletak pada dua pilar:
 
